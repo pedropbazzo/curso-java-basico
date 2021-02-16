@@ -6,3 +6,5 @@ class Erro03 {
 		System.out.println("Voce digitou: " + 1/0);
 	}
 }
+
+//tratamento
